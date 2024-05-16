@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RelationNetwork/static/css/main.6e32282f.css",
+    "main.js": "/RelationNetwork/static/js/main.8c464212.js",
+    "index.html": "/RelationNetwork/index.html",
+    "main.6e32282f.css.map": "/RelationNetwork/static/css/main.6e32282f.css.map",
+    "main.8c464212.js.map": "/RelationNetwork/static/js/main.8c464212.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e32282f.css",
+    "static/js/main.8c464212.js"
+  ]
+}
